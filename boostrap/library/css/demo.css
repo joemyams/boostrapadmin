@@ -1,0 +1,90 @@
+/*
+Template Name: ZERO Framework
+Theme URI: http://themeforest.net/user/themespirit
+Description: Business Startup & Prototyping HTML Framework
+Author: Theme Spirit
+Author URI: http://themeforest.net/user/themespirit
+Version: 1.0
+License: General Public License
+License URI: http://www.gnu.org/licenses/gpl.html
+
+
+*/
+
+
+/*	PATTERN LIBRARY DEMO PAGE STYLES
+/*----------------------------------------------------*/
+
+.container {
+	max-width: 1000px;
+}
+
+.style-block {
+	width: 100%;
+	padding: 30px 0;
+	z-index: 10;
+	position: relative;
+	border-top: #ecf0f1 2px solid;
+}
+
+.color-swatch {
+	padding:  10px;
+}
+
+.color-swatch p {
+	color: #fff;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+	margin: 0;
+}
+
+.brand-img {
+	margin: 0 auto;
+	width: 150px;
+}
+
+.footer-1-2 {
+	margin-top: 60px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+.copyright-bar {
+	height: 70px;
+	padding-top: 20px;
+	background-color: #233447;
+	position: relative;
+	bottom: 0;
+}
+
+.copyright-bar p {
+	color: #ffffff;
+	font-weight: 700;
+	margin: 0; }
+
+
+
+
+/*	PATTERN LIBRARY DEMO PAGE MEDIA QUERIES
+/*----------------------------------------------------*/
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+	
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	
+	
+	
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	
+	
+	
+}
